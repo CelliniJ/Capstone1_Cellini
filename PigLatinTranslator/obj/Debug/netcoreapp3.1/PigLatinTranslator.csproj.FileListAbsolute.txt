@@ -1,0 +1,13 @@
+C:\Users\Joseph Cellini\Desktop\Grand Circus Labs & Excersices\PigLatinTranslator\PigLatinTranslator\obj\Debug\netcoreapp3.1\PigLatinTranslator.csprojAssemblyReference.cache
+C:\Users\Joseph Cellini\Desktop\Grand Circus Labs & Excersices\PigLatinTranslator\PigLatinTranslator\obj\Debug\netcoreapp3.1\PigLatinTranslator.AssemblyInfoInputs.cache
+C:\Users\Joseph Cellini\Desktop\Grand Circus Labs & Excersices\PigLatinTranslator\PigLatinTranslator\obj\Debug\netcoreapp3.1\PigLatinTranslator.AssemblyInfo.cs
+C:\Users\Joseph Cellini\Desktop\Grand Circus Labs & Excersices\PigLatinTranslator\PigLatinTranslator\obj\Debug\netcoreapp3.1\PigLatinTranslator.csproj.CoreCompileInputs.cache
+C:\Users\Joseph Cellini\Desktop\Grand Circus Labs & Excersices\PigLatinTranslator\PigLatinTranslator\bin\Debug\netcoreapp3.1\PigLatinTranslator.exe
+C:\Users\Joseph Cellini\Desktop\Grand Circus Labs & Excersices\PigLatinTranslator\PigLatinTranslator\bin\Debug\netcoreapp3.1\PigLatinTranslator.deps.json
+C:\Users\Joseph Cellini\Desktop\Grand Circus Labs & Excersices\PigLatinTranslator\PigLatinTranslator\bin\Debug\netcoreapp3.1\PigLatinTranslator.runtimeconfig.json
+C:\Users\Joseph Cellini\Desktop\Grand Circus Labs & Excersices\PigLatinTranslator\PigLatinTranslator\bin\Debug\netcoreapp3.1\PigLatinTranslator.runtimeconfig.dev.json
+C:\Users\Joseph Cellini\Desktop\Grand Circus Labs & Excersices\PigLatinTranslator\PigLatinTranslator\bin\Debug\netcoreapp3.1\PigLatinTranslator.dll
+C:\Users\Joseph Cellini\Desktop\Grand Circus Labs & Excersices\PigLatinTranslator\PigLatinTranslator\bin\Debug\netcoreapp3.1\PigLatinTranslator.pdb
+C:\Users\Joseph Cellini\Desktop\Grand Circus Labs & Excersices\PigLatinTranslator\PigLatinTranslator\obj\Debug\netcoreapp3.1\PigLatinTranslator.dll
+C:\Users\Joseph Cellini\Desktop\Grand Circus Labs & Excersices\PigLatinTranslator\PigLatinTranslator\obj\Debug\netcoreapp3.1\PigLatinTranslator.pdb
+C:\Users\Joseph Cellini\Desktop\Grand Circus Labs & Excersices\PigLatinTranslator\PigLatinTranslator\obj\Debug\netcoreapp3.1\PigLatinTranslator.genruntimeconfig.cache
